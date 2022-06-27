@@ -1,4 +1,4 @@
-# TypeScript and JavaScript Course (Todo App)
+# TypeScript and JavaScript [Course](https://youtu.be/Ba9tKeLTCOc) (Todo App)
 
 ## Welcome! 🙌
 
